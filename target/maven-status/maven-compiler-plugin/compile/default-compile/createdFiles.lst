@@ -1,0 +1,6 @@
+org\example\JobCompletionNotificationListener.class
+org\example\PersonItemWriter.class
+org\example\Person.class
+org\example\PersonItemProcessor.class
+org\example\BatchConfig.class
+org\example\SpringBatchExample.class
