@@ -1,6 +1,7 @@
-C:\Users\nathan\GIT\java-8-spring\src\main\java\org\example\JobCompletionNotificationListener.java
-C:\Users\nathan\GIT\java-8-spring\src\main\java\org\example\PersonItemProcessor.java
-C:\Users\nathan\GIT\java-8-spring\src\main\java\org\example\Person.java
-C:\Users\nathan\GIT\java-8-spring\src\main\java\org\example\SpringBatchExample.java
-C:\Users\nathan\GIT\java-8-spring\src\main\java\org\example\PersonItemWriter.java
 C:\Users\nathan\GIT\java-8-spring\src\main\java\org\example\BatchConfig.java
+C:\Users\nathan\GIT\java-8-spring\src\main\java\org\example\config\PersonJobConfig.java
+C:\Users\nathan\GIT\java-8-spring\src\main\java\org\example\JobCompletionNotificationListener.java
+C:\Users\nathan\GIT\java-8-spring\src\main\java\org\example\Person.java
+C:\Users\nathan\GIT\java-8-spring\src\main\java\org\example\PersonItemProcessor.java
+C:\Users\nathan\GIT\java-8-spring\src\main\java\org\example\PersonItemWriter.java
+C:\Users\nathan\GIT\java-8-spring\src\main\java\org\example\SpringBatchExample.java
